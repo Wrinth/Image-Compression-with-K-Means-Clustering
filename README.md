@@ -1,4 +1,4 @@
-# Image-Compression-with-K-Means-Klustering
+# Image-Compression-with-K-Means-Clustering
 
 ## Files included in this repository
 - MatLab-Octave/image_compression.m (Octave/MATLAB script for the Image Compression with K-means Klustering)
